@@ -8,6 +8,10 @@ This study utilized the Pycaret library to evaluate the performance of various c
 
 [![AI Research Overview](https://img.youtube.com/vi/1AeM5GJGSjE/0.jpg)](https://youtu.be/1AeM5GJGSjE)
 
+## Dataset
+
+Shapiro,Alen. (1989). Chess (King-Rook vs. King-Pawn). UCI Machine Learning Repository. <https://doi.org/10.24432/C5DK5C>.
+
 ## License
 
 Copyright 2023 Jerikka Sotelo
